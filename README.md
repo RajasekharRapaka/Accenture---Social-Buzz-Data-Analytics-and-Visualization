@@ -1,5 +1,9 @@
-This is Accenture Data Analytics virtual experience project with Forage. The goal was to help a company named "Social Buzz" leverage the use of their massive amount of data. Social Buzz has reached huge scale in recent years to become recognized as a global unicorn company. At Accenture, we have embarked on a 3 month pilot to help tackle their biggest challenges on 3 main tasks:
+Introduction to this Case Study¶
+This was a job simulation in data analytics from Accenture hosted on Forage.
 
+Forage is an online platform that allows users to complete virtual job simulations and internships in a free, self-paced setting. Users are able to practice real-life skills on real-life problems to gain a better understanding of what the day-to-day of a job is like.
+
+Accenture is a professional services ccompany that specializes in IT services and consulting.Social Buzz is a fast growing social media unicorn that needs to scale rapidly. Accenture has begun a three – month initial engagement to:
 1- Audit of Social Buzz big data practice
 2- Implimentation of an IPO
 3- Analysis of top 5 pupular categories content
@@ -12,7 +16,6 @@ Data Visualization & Storytelling
 Present to the Client
 
 Details:
-
 Three datasets such as content, reaction, and reaction types are provided.
 By taking the dataset, remove the columns and rows which are not relevant to the analysis.
 By reading and understanding the data, the primary and secondary columns should be taken, analyzed, and visualized
